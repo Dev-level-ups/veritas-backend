@@ -10,7 +10,6 @@ Backend API for Veritas, built with **FastAPI** and **Supabase**.
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
 - [Running the Server](#running-the-server)
-- [API Documentation](#api-documentation)
 - [Security Notes](#security-notes)
 
 ## Tech Stack
